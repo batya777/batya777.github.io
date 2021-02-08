@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+}
+
+html{
+	font-family: 'Jomhuria', cursive;
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #ffff;
+	background: #c70ad4;
+}
+
+header{
+
+}
+
+.container{
+	min-height: 820px;
+	background: url('img/img1.jpg') center/cover no-repeat;
+
+}
+
+.my_projects {
+	display: block;
+	left: 10px;
+	font-family: 'Jomhuria', cursive;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto Slab', serif;
+}
+
+.my_projects a{
+	color: #39bedc;
+}
+
+
